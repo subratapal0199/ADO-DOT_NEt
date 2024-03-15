@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Project_Subrata_Exam_04_03_2024\bin\Debug\Project_Subrata_Exam_04_03_2024.exe.config
+C:\Users\Administrator\source\repos\Project_Subrata_Exam_04_03_2024\bin\Debug\Project_Subrata_Exam_04_03_2024.exe
+C:\Users\Administrator\source\repos\Project_Subrata_Exam_04_03_2024\bin\Debug\Project_Subrata_Exam_04_03_2024.pdb
+C:\Users\Administrator\source\repos\Project_Subrata_Exam_04_03_2024\obj\Debug\Project_Subrata_Exam_04_03_2024.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Project_Subrata_Exam_04_03_2024\obj\Debug\Project_Subrata_Exam_04_03_2024.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Project_Subrata_Exam_04_03_2024\obj\Debug\Project_Subrata_Exam_04_03_2024.exe
+C:\Users\Administrator\source\repos\Project_Subrata_Exam_04_03_2024\obj\Debug\Project_Subrata_Exam_04_03_2024.pdb

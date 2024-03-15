@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Project_Subrata_Exam_04_03_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28B2EA80-30C2-4FD2-AAC6-D8F18505FC2B}|Project_Subrata_Exam_04_03_2024.csproj|c:\\users\\administrator\\source\\repos\\project_subrata_exam_04_03_2024\\class_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B2EA80-30C2-4FD2-AAC6-D8F18505FC2B}|Project_Subrata_Exam_04_03_2024.csproj|solutionrelative:class_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B2EA80-30C2-4FD2-AAC6-D8F18505FC2B}|Project_Subrata_Exam_04_03_2024.csproj|C:\\Users\\Administrator\\source\\repos\\Project_Subrata_Exam_04_03_2024\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B2EA80-30C2-4FD2-AAC6-D8F18505FC2B}|Project_Subrata_Exam_04_03_2024.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class_pattern.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Project_Subrata_Exam_04_03_2024\\Class_pattern.cs",
+              "RelativeDocumentMoniker": "Class_pattern.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Project_Subrata_Exam_04_03_2024\\Class_pattern.cs",
+              "RelativeToolTip": "Class_pattern.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:51:04.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Project_Subrata_Exam_04_03_2024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Project_Subrata_Exam_04_03_2024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:24:35.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

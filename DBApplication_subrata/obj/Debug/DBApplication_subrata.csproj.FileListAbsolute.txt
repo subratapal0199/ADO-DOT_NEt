@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\DBApplication_subrata\bin\Debug\DBApplication_subrata.exe.config
+C:\Users\Administrator\source\repos\DBApplication_subrata\bin\Debug\DBApplication_subrata.exe
+C:\Users\Administrator\source\repos\DBApplication_subrata\bin\Debug\DBApplication_subrata.pdb
+C:\Users\Administrator\source\repos\DBApplication_subrata\obj\Debug\DBApplication_subrata.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DBApplication_subrata\obj\Debug\DBApplication_subrata.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DBApplication_subrata\obj\Debug\DBApplication_subrata.exe
+C:\Users\Administrator\source\repos\DBApplication_subrata\obj\Debug\DBApplication_subrata.pdb
